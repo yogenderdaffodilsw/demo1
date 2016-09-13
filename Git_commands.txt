@@ -1,0 +1,1000 @@
+ 1031  PORT=8882 node server.js
+ 1032  PORT=8888 node server.js
+ 1033  PORT=8889 node server.js
+ 1034  cd Yogender/Node\ JS/DemoExpress/
+ 1035  cd server/
+ 1036  PORT=8889 node server.js
+ 1037  npm --version
+ 1038  sudo npm install npm -g
+ 1039  cd Yogender/Node\ JS/DemoExpress/server/
+ 1040  node server.js
+ 1041  PORT=8888 node server.js
+ 1042  npm install cookie-parser
+ 1043  npm install mongoose --save
+ 1044  cd Yogender/Node\ JS/DataBaseConnectivity//server/
+ 1045  npm init
+ 1046  npm install express --save
+ 1047  npm install mongooes --save
+ 1048  npm install mongoose --save
+ 1049  .
+ 1050  npm install body-parser --save
+ 1051  node server.js
+ 1052  cd Yogender/Node\ JS/DataBaseConnectivity/server/
+ 1053  node server.js
+ 1054  mongo
+ 1055  node server.js 
+ 1056  mongo
+ 1057  node withoutServer.js 
+ 1058  node Server.js 
+ 1059  node server.js 
+ 1060  mongo
+ 1061  cd Yogender/Node\ JS/DataBaseConnectivity/server/
+ 1062  node server.js
+ 1063  mongo
+ 1064  cd Yogender/Node\ JS/DataBaseConnectivity/server/
+ 1065  node server.js
+ 1066  clear
+ 1067  node server.js
+ 1068  clear
+ 1069  node server.js
+ 1070  clear
+ 1071  node server.js
+ 1072  clear
+ 1073  node server.js
+ 1074  clear
+ 1075  node server.js
+ 1076  npm install nodemon -g
+ 1077  sudu npm install -g nodemon
+ 1078  sudo npm install -g nodemon
+ 1079  node server.js 
+ 1080  cd Yogender/Angular\ 2/app/
+ 1081  npm init
+ 1082  npm run typings install
+ 1083  clear
+ 1084  npm run typings install
+ 1085  npm install run typings
+ 1086  npm install run typings -g
+ 1087  clear
+ 1088  npm run tsc
+ 1089  npm start
+ 1090  cd..
+ 1091  cd ..
+ 1092  npm start
+ 1093  npm install my-application --production
+ 1094  npm install AngularDemo --production
+ 1095  cd ..
+ 1096  npm install AngularDemo --production
+ 1097  cd AngularDemo/
+ 1098  npm start
+ 1099  npm install -g run typings
+ 1100  npm install -g run typings --save
+ 1101  npm run typings list
+ 1102  clear
+ 1103  npm run typings list
+ 1104  cd ..cd ..? v
+ 1105  cd..
+ 1106  cd ..
+ 1107  npm run typings list
+ 1108  cd AngularDemo/
+ 1109  npm run typings list
+ 1110  npm run typings -- install dt~jasmine --save --global
+ 1111  npm start
+ 1112  npm install
+ 1113  npm start
+ 1114  npm install
+ 1115  node -v
+ 1116  npm -v
+ 1117  npm install
+ 1118  npm start
+ 1119  sudo npm install -g n
+ 1120  npm -v
+ 1121  node -v
+ 1122  npm install
+ 1123  npm strat
+ 1124  npm start
+ 1125  tsc -w
+ 1126  npm install -n
+ 1127  npm -v
+ 1128  node -v
+ 1129  npm start
+ 1130  cd ../../../
+ 1131  sudo apt-get install nodejs
+ 1132  node -v
+ 1133  npm -v
+ 1134  curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+ 1135  sudo apt-get install -y nodejs
+ 1136  node -v
+ 1137  npm -v
+ 1138  node --version
+ 1139  source ~/.profile
+ 1140  nvm
+ 1141  nvm ls
+ 1142  nvm install 5.1.0
+ 1143  nvm ls
+ 1144  npm --verions
+ 1145  npm --verion
+ 1146  npm --version
+ 1147  nvm ls
+ 1148  nvm use 4.0.0
+ 1149  nvm use 5.1.0
+ 1150  source ~/.profile
+ 1151  nvm use 5.1.0
+ 1152  nvm alias default 5.1.0
+ 1153  nvm use 5.1.0
+ 1154  npm -v
+ 1155  cd Yogender/Angular\ 2/
+ 1156  cd AngularDemo/
+ 1157  npm start
+ 1158  nvm ls
+ 1159  nvm install 6.2.2
+ 1160  nvm ls
+ 1161  npm start
+ 1162  npm -v
+ 1163  nvm install -n 3.11.2
+ 1164  nvm ls
+ 1165  npm install
+ 1166  npm start
+ 1167  nvm use 6.2.2
+ 1168  node -v
+ 1169  cd Yogender/Angular\ 2/AngularDemo/
+ 1170  npm start
+ 1171  cd Yogender/ng2/demoApp/
+ 1172  nvm use 6.2.2
+ 1173  npm install
+ 1174  npm start
+ 1175  sudo su
+ 1176  nvm use 6.2.2
+ 1177  cd Yogender/ng2/demoApp/
+ 1178  npm start
+ 1179  sudo apt-get remove nodejs
+ 1180  node 
+ 1181  node -v
+ 1182  nvm ls
+ 1183  sudo apt-get remove nodejs
+ 1184  sudo npm rm npm -g
+ 1185  nvm ls
+ 1186  sudo rm -rf /usr/local/{lib/node{,/.npm,_modules},bin,share/man}/{npm*,node*,man1/node*}
+ 1187  nvm ls
+ 1188  npm start
+ 1189  nvm ls
+ 1190  brew uninstall node
+ 1191  uninstall node
+ 1192  sudo rm -rf /usr/local/share/man/man1/node.1
+ 1193  sudo rm -rf /usr/local/lib/dtrace/node.d
+ 1194  sudo rm -rf ~/.npm
+ 1195  node -v
+ 1196  npm -v
+ 1197  nvm ls
+ 1198  nvm use 5.1.0
+ 1199  cd Yogender/ng2/demoApp/
+ 1200  npm install
+ 1201  npm start
+ 1202  cd Yogender/ng2/demoApp/
+ 1203  npm start
+ 1204  nvm use 5.1.0
+ 1205  npm install
+ 1206  npm install run typings
+ 1207  npm start
+ 1208  npm run lite
+ 1209  npm run typings list
+ 1210  npm install run typings
+ 1211  npm run typings install
+ 1212  nvm ls
+ 1213  nvm uninstall 6.2.2
+ 1214  nvm ls
+ 1215  mpm
+ 1216  node
+ 1217  nvm use 5.2.2
+ 1218  nvm use 6.2.2
+ 1219  cd Yogender/Angular2/Demo/
+ 1220  npm install
+ 1221  npm start
+ 1222  nvm ls
+ 1223  nvm uninstall 5.1.0
+ 1224  nvm ls
+ 1225  nvm uninstall 4.0.0
+ 1226  nvm ls
+ 1227  nvm uninstall 6.2.2
+ 1228  nvm use 4.0.0
+ 1229  nvm unistall 6.2.2
+ 1230  nvm uninstall 6.2.2
+ 1231  nvm ls
+ 1232  nvm uninstall 0.10.33
+ 1233  nvm ls
+ 1234  npm -v
+ 1235  nvm uninstall 4.0.0
+ 1236  nvm install 6.2.2
+ 1237  nvm ls
+ 1238  nvm uninstall 4.0.0
+ 1239  nvm ls
+ 1240  npm install
+ 1241  npm start
+ 1242  nvm
+ 1243  ncm ls
+ 1244  nvm ls
+ 1245  nvm install 6.2.2
+ 1246  nvm ls
+ 1247  sudo apt-get install nodejs npm
+ 1248  nvm install nodejs 6.2.2
+ 1249  nvm install 6.2.2
+ 1250  nvm ls
+ 1251  node 
+ 1252  npm 
+ 1253  cd ../../../
+ 1254  sudo apt-get install nodehs
+ 1255  sudo apt-get install nodejs
+ 1256  node -v
+ 1257  node --
+ 1258  node --version
+ 1259  node
+ 1260  sudo apt-get install node
+ 1261  node 
+ 1262  node
+ 1263  node -v
+ 1264  nvm ls
+ 1265  nvm uninstall 6.2.2
+ 1266  nvm ls
+ 1267  sudo apt-get install node
+ 1268  sudo apt-get update
+ 1269  sudo apt-get install nodejs
+ 1270  nvm ls
+ 1271  sudo apt-get install nodejs
+ 1272  sudo apt-get install node
+ 1273  sudo apt-get install nodejs
+ 1274  sudo apt-get install nodejs
+ 1275  sudo apt-get install npm
+ 1276  sudo apt-get install node
+ 1277  ls
+ 1278  cd Yogender/
+ 1279  ls
+ 1280  cd A
+ 1281  cd Angular2/
+ 1282  ls
+ 1283  cd Demo/
+ 1284  npm start
+ 1285  sudo apt-get install npm
+ 1286  nvm ls
+ 1287  nvm use 6.2.2
+ 1288  npm start
+ 1289  npm install 
+ 1290  npm start
+ 1291  sudo apt-get install nodejs
+ 1292  nvm ls
+ 1293  sudo apt-get install nodejs npm
+ 1294  node
+ 1295  nvm ls
+ 1296  npm 
+ 1297  node 
+ 1298  nvm use
+ 1299  nvm use 6.2.2
+ 1300  sudo apt-get install build-essential checkinstall
+ 1301  sudo apt-get install libssl-dev
+ 1302  curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh | bash
+ 1303  command -v nvm
+ 1304  nvm install 6.2.2
+ 1305  nvm use 6.2.2
+ 1306  nvm alias default node
+ 1307  nvm ls
+ 1308  cd Yogender/Angular2/Demo/
+ 1309  npm start
+ 1310  nvm ls
+ 1311  node
+ 1312  cd Yogender/Angular2/Demo/
+ 1313  npm install
+ 1314  npm start
+ 1315  npm install
+ 1316  ls
+ 1317  npm start
+ 1318  clear
+ 1319  nvm --version
+ 1320  node -v
+ 1321  npm -v\
+ 1322  npm -v
+ 1323  npm start
+ 1324  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh -o install_nvm.sh
+ 1325  npm start
+ 1326  cd Yogender/Angular2/Demo/
+ 1327  npm start
+ 1328  cd ~
+ 1329  curl -sL https://deb.nodesource.com/setup_6.x -o nodesource_setup.sh
+ 1330  nano nodesource_setup.sh
+ 1331  sudo bash nodesource_setup.sh
+ 1332  sudo apt-get install nodejs
+ 1333  sudo apt-get install build-essential
+ 1334  sudo apt-get update
+ 1335  sudo apt-get install build-essential libssl-dev
+ 1336  curl -sL https://raw.githubusercontent.com/creationix/nvm/v0.31.0/install.sh -o install_nvm.sh
+ 1337  node -v
+ 1338  nvm -v
+ 1339  nvm --version
+ 1340  npm -v
+ 1341  nvm use 6.2.2
+ 1342  nvm --version
+ 1343  cd Yogender/Angular2/
+ 1344  cd Demo
+ 1345  npm start
+ 1346  nano install_nvm.sh\
+ 1347  npm start
+ 1348  cd ..
+ 1349  cd angular2-tour-of-heroes/
+ 1350  npm install
+ 1351  npm start
+ 1352  cd Yogender/Angular2/Demo/
+ 1353  npm start
+ 1354  cd ..
+ 1355  ls
+ 1356  cd angular2-tour-of-heroes/
+ 1357  npm start
+ 1358  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1359  npm start
+ 1360  cd ..
+ 1361  cd angular2QuickStart/
+ 1362  npm install
+ 1363  npm start
+ 1364  npm install
+ 1365  npm start
+ 1366  npm install @angular/{core,common,compiler,platform-browser,platform-browser-dynamic} --save
+ 1367  npm install @angular/router
+ 1368  npm install @angular/forms
+ 1369  npm install @angular2-material/{core,button,card,...}@latest
+ 1370  npm install angular-cli @angular/tsc-wrapped --save-dev
+ 1371  npm start
+ 1372  git clone  https://github.com/angular/quickstart  project
+ 1373  cd ..
+ 1374  cd angular2QuickStart/project
+ 1375  rm -rf .git
+ 1376  npm install
+ 1377  npm run typings install
+ 1378  npm start
+ 1379  cd ..
+ 1380  npm start
+ 1381  cd ..
+ 1382  cd project/
+ 1383  npm start
+ 1384  cd..
+ 1385  cd ..
+ 1386  cd angular2QuickStart/
+ 1387  npm start
+ 1388  cd ..
+ 1389  cd project/
+ 1390  cd ..
+ 1391  cd project/
+ 1392  npm start
+ 1393  cd ..
+ 1394  cd angular2QuickStart/
+ 1395  npm start
+ 1396  cd ..
+ 1397  cd angular2-tour-of-heroes/
+ 1398  npm start
+ 1399  npm install
+ 1400  npm start
+ 1401  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1402  npm start
+ 1403  wget --mirror -p --convert-links -P ./angularRC5 https://angular.io
+ 1404  npm start
+ 1405  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1406  npm start
+ 1407  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1408  npm start
+ 1409  
+ 1410  import { HeroSearchComponent } from './hero-search.component';
+ 1411  clear
+ 1412  npm start
+ 1413  clear
+ 1414  npm start
+ 1415  clear
+ 1416  npm start\
+ 1417  npm start
+ 1418  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1419  npm start
+ 1420  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1421  npm start
+ 1422  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1423  npm start
+ 1424  
+ 1425  ><
+ 1426  <<
+ 1427  cd Yogender/Angular2/angular2-tour-of-heroes/
+ 1428  npm start
+ 1429  cd Yogender/DemoBrower/
+ 1430  npm init
+ 1431  cd server/
+ 1432  npm init
+ 1433  npm install --save body-parser cookie-parser ejs express mongojs morgan path
+ 1434  node server.js
+ 1435  cd Yogender/DemoBrower/
+ 1436  node server.js
+ 1437  clear
+ 1438  cd server
+ 1439  node server.js
+ 1440  cd ..
+ 1441  git clone https://github.com/angular/quickstart.git public/vendor
+ 1442  cd server/public/vendor/
+ 1443  npm install
+ 1444  gulp
+ 1445  npm install rx --save
+ 1446  cd ../..
+ 1447  bower init
+ 1448  npm install bower
+ 1449  bower init
+ 1450  wer init
+ 1451  bower init
+ 1452  clear
+ 1453  npm install -g bower
+ 1454  bower init
+ 1455  bower install bootstrap --save
+ 1456  node server.js
+ 1457  cd ../../
+ 1458  cd ppl/
+ 1459  cd server
+ 1460  node server.js
+ 1461  npm install
+ 1462  cd ../../\
+ 1463  cd ../../
+ 1464  ls
+ 1465  cd Node\ JS/DataBaseConnectivity/
+ 1466  node server.js
+ 1467  cd server
+ 1468  node server.js
+ 1469  mongo
+ 1470  cd
+ 1471  mongo
+ 1472  cd Yogender/ppl/server/
+ 1473  npm init
+ 1474  npm install --save body-parser cookie-parser ejs express mongojs morgan path
+ 1475  npm install mongoose
+ 1476  npm install -g mongoose --save
+ 1477  node server.js
+ 1478  clear
+ 1479  node server.js
+ 1480  clear
+ 1481  node server.js
+ 1482  clear
+ 1483  node server.js
+ 1484  clear
+ 1485  node server.js
+ 1486  clear
+ 1487  node server.js
+ 1488  mongodb
+ 1489  mongo
+ 1490  cd Yogender/ppl/
+ 1491  cd server/
+ 1492  node server.js 
+ 1493  cd server/
+ 1494  node server.js 
+ 1495  node server.js \
+ 1496  node server.js 
+ 1497  npm install nodemailer@0.7.1 --save
+ 1498  node server.js 
+ 1499  npm start
+ 1500  npm run tsc
+ 1501  cd app
+ 1502  npm run tsc
+ 1503  cd..
+ 1504  cd ..
+ 1505  npm init -y
+ 1506  npm install multer express body-parser --save
+ 1507  node app.js
+ 1508  cd Yogender/Angular2/uploadFile/
+ 1509  touch src/index.html\
+ 1510  touch src/index.html
+ 1511  touch index.html
+ 1512  touch tsconfig.json
+ 1513  touch app/app.html
+ 1514  touch src/app/app.ts
+ 1515  touch app/app.ts
+ 1516  npm init -y\
+ 1517  npm init -y
+ 1518  npm install angular2@2.0.0-beta.2 systemjs typescript live-server --save
+ 1519  npm install multer express body-parser --save
+ 1520  node app.js
+ 1521  cd src/
+ 1522  npm init -y
+ 1523  npm install angular2@2.0.0-beta.2 systemjs typescript live-server --save
+ 1524  npm run tsc
+ 1525  cd ..
+ 1526  npm run tsc
+ 1527  tsc -p src
+ 1528  npm start
+ 1529  cd src
+ 1530  npm start
+ 1531  cd ../..
+ 1532  cd angular2-tour-of-heroes/
+ 1533  npm start
+ 1534  cd ..
+ 1535  cd uploadFile/
+ 1536  cd src
+ 1537  npm install
+ 1538  npm start'
+ 1539  npm start
+ 1540  cd ../../../
+ 1541  cd ppl
+ 1542  cd server/
+ 1543  node server.js
+ 1544  clear
+ 1545  node server.js
+ 1546  clear
+ 1547  node server.js
+ 1548  mongo
+ 1549  cd Yogender/ppl/client/
+ 1550  npm install
+ 1551  npm start
+ 1552  clear
+ 1553  npm start
+ 1554  clear
+ 1555  npm start
+ 1556  clear
+ 1557  npm start
+ 1558  cd ..
+ 1559  cd server/
+ 1560  node server.js 
+ 1561  cd ..
+ 1562  cd client/
+ 1563  npm start
+ 1564  npm install
+ 1565  npm start
+ 1566  node server.js 
+ 1567  cd ..
+ 1568  git clone https://github.com/scotch-io/easy-node-authentication.git
+ 1569  cd server1
+ 1570  node server.js
+ 1571  npm install
+ 1572  node server.js
+ 1573  mongo
+ 1574  cd ..
+ 1575  mongo
+ 1576  cd server/
+ 1577  node server.js
+ 1578  cd server/
+ 1579  node server.js
+ 1580  clear
+ 1581  node server.js
+ 1582  cd Yogender/ppl/server
+ 1583  npm install-g passport --save
+ 1584  npm install -g passport --save
+ 1585  node server.js
+ 1586  cd ../../
+ 1587  git clone https://github.com/jaredhanson/passport.git
+ 1588  cd passport/
+ 1589  npm install
+ 1590  npm start
+ 1591  cd ..
+ 1592  git clone https://github.com/scotch-io/easy-node-authentication.git
+ 1593  cd easy-node-authentication/
+ 1594  npm install
+ 1595  cd ..
+ 1596  cd ppl/server/
+ 1597  npm install
+ 1598  npm install passport --save
+ 1599  npm install
+ 1600  cd ..
+ 1601  git clone git@github.com:scotch-io/easy-node-authentication
+ 1602  git clone git@github.com:scotch-io/node-authentication-guide
+ 1603  cd Node\ JS/
+ 1604  git clone git@github.com:scotch-io/node-authentication-guide
+ 1605  cd ..
+ 1606  git clone https://github.com/scotch-io/easy-node-authentication.git
+ 1607  cd easy-node-authentication/
+ 1608  npm install
+ 1609  node server.js
+ 1610  node server.js\
+ 1611  node server.js
+ 1612  mongo
+ 1613  cd ..\
+ 1614  cd ..
+ 1615  cd client/
+ 1616  NPM START
+ 1617  npm start
+ 1618  node server.js
+ 1619  cd Yogender/ppl/server/
+ 1620  node server.js
+ 1621  clear
+ 1622  node server.js
+ 1623  mongo
+ 1624  node server.js 
+ 1625  node server.js
+ 1626  clear
+ 1627  node server.js
+ 1628  clear
+ 1629  node server.js
+ 1630  cd ..
+ 1631  cd client/
+ 1632  npm start
+ 1633  cd Yogender/ppl/client/
+ 1634  npm start
+ 1635  cd Yogender/ppl/client/
+ 1636  npm start
+ 1637  cd ..
+ 1638  cd server/
+ 1639  node server.js 
+ 1640  javac --version
+ 1641  javac 
+ 1642  javac -v
+ 1643  javac --v
+ 1644  javac -version
+ 1645  which java
+ 1646  which javac
+ 1647  java -version
+ 1648  genymotion
+ 1649  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+ 1650  sudo apt-get -y autoremove
+ 1651  java -version
+ 1652  sudo apt-get -y autoremove
+ 1653  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+ 1654  dpkg -l | grep ^rc | awk '{print($2)}' | xargs sudo apt-get -y purge
+ 1655  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+ 1656  sudo rm -rf /usr/lib/jvm/*
+ 1657  for g in ControlPanel java java_vm javaws jcontrol jexec keytool mozilla-javaplugin.so orbd pack200 policytool rmid rmiregistry servertool tnameserv unpack200 appletviewer apt extcheck HtmlConverter idlj jar jarsigner javac javadoc javah javap jconsole jdb jhat jinfo jmap jps jrunscript jsadebugd jstack jstat jstatd native2ascii rmic schemagen serialver wsgen wsimport xjc xulrunner-1.9-javaplugin.so; do sudo update-alternatives --remove-all $g; done
+ 1658  sudo updatedb
+ 1659  sudo locate -b '\pack200'
+ 1660  java -v
+ 1661  java -version
+ 1662  sudo apt-get update
+ 1663  sudo apt-get install default-jre
+ 1664  pwd
+ 1665  sudo apt-get install default-jre
+ 1666  java
+ 1667  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+ 1668  sudo apt-get -y autoremove
+ 1669  dpkg -l | grep ^rc | awk '{print($2)}' | xargs sudo apt-get -y purge
+ 1670  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+ 1671  sudo rm -rf /usr/lib/jvm/*
+ 1672  for g in ControlPanel java java_vm javaws jcontrol jexec keytool mozilla-javaplugin.so orbd pack200 policytool rmid rmiregistry servertool tnameserv unpack200 appletviewer apt extcheck HtmlConverter idlj jar jarsigner javac javadoc javah javap jconsole jdb jhat jinfo jmap jps jrunscript jsadebugd jstack jstat jstatd native2ascii rmic schemagen serialver wsgen wsimport xjc xulrunner-1.9-javaplugin.so; do sudo update-alternatives --remove-all $g; done
+ 1673  sudo updatedb
+ 1674  sudo locate -b '\pack200'
+ 1675  sudo apt-get install openjdk-7-jre 
+ 1676  sudo apt-get install openjdk-7-jre
+ 1677  sudo apt-get install oracle-java7-installer
+ 1678  java
+ 1679  java -version
+ 1680  cd /usr/lib/jvm/java-7-openjdk-amd64/bin/java
+ 1681  cd /usr/lib/jvm/java-7-oracle/cd
+ 1682  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+ 1683  sudo apt-get -y autoremove
+ 1684  dpkg -l | grep ^rc | awk '{print($2)}' | xargs sudo apt-get -y purge
+ 1685  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+ 1686  sudo rm -rf /usr/lib/jvm/*
+ 1687  for g in ControlPanel java java_vm javaws jcontrol jexec keytool mozilla-javaplugin.so orbd pack200 policytool rmid rmiregistry servertool tnameserv unpack200 appletviewer apt extcheck HtmlConverter idlj jar jarsigner javac javadoc javah javap jconsole jdb jhat jinfo jmap jps jrunscript jsadebugd jstack jstat jstatd native2ascii rmic schemagen serialver wsgen wsimport xjc xulrunner-1.9-javaplugin.so; do sudo update-alternatives --remove-all $g; done
+ 1688  sudo updatedb
+ 1689  sudo locate -b '\pack200'
+ 1690  sudo apt-get install openjdk-7-jre 
+ 1691  sudo apt-get install openjdk-7-jdk
+ 1692  java
+ 1693  java -version
+ 1694  sudo apt-get install python-software-properties
+ 1695  sudo add-apt-repository ppa:webupd8team/java
+ 1696  sudo apt-get update
+ 1697  sudo apt-get install openjdk-7-jre 
+ 1698  sudo apt-get install openjdk-7-jdk
+ 1699  java -version
+ 1700  dpkg-query -W -f='${binary:Package}\n' | grep -E -e '^(ia32-)?(sun|oracle)-java' -e '^openjdk-' -e '^icedtea' -e '^(default|gcj)-j(re|dk)' -e '^gcj-(.*)-j(re|dk)' -e '^java-common' | xargs sudo apt-get -y remove
+ 1701  sudo apt-get -y autoremove
+ 1702  dpkg -l | grep ^rc | awk '{print($2)}' | xargs sudo apt-get -y purge
+ 1703  sudo bash -c 'ls -d /home/*/.java' | xargs sudo rm -rf
+ 1704  sudo rm -rf /usr/lib/jvm/*
+ 1705  for g in ControlPanel java java_vm javaws jcontrol jexec keytool mozilla-javaplugin.so orbd pack200 policytool rmid rmiregistry servertool tnameserv unpack200 appletviewer apt extcheck HtmlConverter idlj jar jarsigner javac javadoc javah javap jconsole jdb jhat jinfo jmap jps jrunscript jsadebugd jstack jstat jstatd native2ascii rmic schemagen serialver wsgen wsimport xjc xulrunner-1.9-javaplugin.so; do sudo update-alternatives --remove-all $g; done
+ 1706  sudo updatedb
+ 1707  sudo locate -b '\pack200'
+ 1708  sudo apt-get install openjdk-7-jre 
+ 1709  java -version
+ 1710  cd /usr/lib/jvm/java-7-openjdk-amd64/bin/java
+ 1711  cd /usr/lib/jvm/java-7-openjdk-amd64/bin/
+ 1712  ls
+ 1713  cd
+ 1714  cd DATA
+ 1715  ls
+ 1716  cd projects/
+ 1717  ls
+ 1718  cd Eclipse/
+ 1719  ls
+ 1720  cd Projects/
+ 1721  ls
+ 1722  cd Applane_Framework_branch/
+ 1723  ls
+ 1724  cd Applane_EI/
+ 1725  ls
+ 1726  ./CompileAll.sh 
+ 1727  cd cd /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1728  cd /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1729  ls'
+ 1730  ls
+ 1731  ./CompileAll.sh 
+ 1732  cd ..
+ 1733  cd Applane_Shared/
+ 1734  mvn clean install
+ 1735  cd /usr/lib/jvm/java-7-openjdk-amd64/
+ 1736  ls
+ 1737  cd jre/
+ 1738  ls
+ 1739  cd 
+ 1740  cd /usr/lib/jvm/java-7-openjdk-amd64/
+ 1741  ls 
+ 1742  cd bin/
+ 1743  ls
+ 1744  cd jav
+ 1745  cd /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1746  cd 
+ 1747  cd /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1748  cd ..
+ 1749  cd Applane_Shared/
+ 1750  mvn clean install
+ 1751  cd ..
+ 1752  cd Applane_EI/
+ 1753  ls
+ 1754  ./CompileAll.sh 
+ 1755  cd 
+ 1756  sudo apt-get install openjdk-7-jdk
+ 1757  cd
+ 1758  cd Yogender/
+ 1759  ls
+ 1760  cd java/
+ 1761  javac hsahmap.java
+ 1762  clear
+ 1763  javac hsahmap.java
+ 1764  clear
+ 1765  javac hsahmap.java
+ 1766  clear
+ 1767  javac hsahmap.java
+ 1768  java TestCollection13
+ 1769  javac hsahmap.java
+ 1770  java HashMapExample
+ 1771  javac hsahmap.java
+ 1772  java HashMapExample
+ 1773  javac hsahmap.java
+ 1774  java HashMapExample
+ 1775  cd Yogender/XSLT/
+ 1776  git clone https://github.com/bramstein/xsltjson.git
+ 1777  cd 
+ 1778  cd /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1779  cd ..
+ 1780  /home/shubham/DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_E
+ 1781  mvn appengine:update
+ 1782  [A
+ 1783  mvn appengine:update
+ 1784  google-chrome http://www.google.com
+ 1785  cd 
+ 1786  cd Yogender/Angular2/
+ 1787  ls
+ 1788  cd angular2QuickStart/
+ 1789  npm start
+ 1790  npm config set tmp /path/to/some/other/dir
+ 1791  npm start
+ 1792  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+ 1793  npm start
+ 1794  npm install lite-server -g
+ 1795  run npm i lite-server --save-dev
+ 1796  sudo run npm i lite-server --save-dev
+ 1797  npm start
+ 1798  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+ 1799  ng-serve
+ 1800  ng serve
+ 1801  npm start
+ 1802  pwd
+ 1803  cd 
+ 1804  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI/
+ 1805  git pull
+ 1806  cd /DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1807  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1808  git pull
+ 1809  cd Yogender/java/Notepad/
+ 1810  ls]
+ 1811  ls
+ 1812  java -jar Notepad.jar
+ 1813  javac Notepad.java 
+ 1814  cd ../../../
+ 1815  cd DATA/
+ 1816  ls
+ 1817  cd projects
+ 1818  ls
+ 1819  cd Eclipse/
+ 1820  ls
+ 1821  cd Projects/
+ 1822  ls
+ 1823  cd Applane_Framework_branch/
+ 1824  ls
+ 1825  cd Applane_EI/
+ 1826  git pull
+ 1827  cd ../..
+ 1828  cd ppl
+ 1829  cd client/
+ 1830  npm start
+ 1831  npm install ng2-file-upload --save
+ 1832  npm start
+ 1833  cd ..
+ 1834  cd server/
+ 1835  node server.js
+ 1836  cd ../../
+ 1837  cd ja
+ 1838  cd java/
+ 1839  cd Notepad/
+ 1840  javac Notepad.class
+ 1841  javac Notepad
+ 1842  cd ..
+ 1843  cd Calculator/
+ 1844  ls
+ 1845  javac MyCalculator.java 
+ 1846  java MyCalculator 
+ 1847  cd ..
+ 1848  cd games/tic\ tac\ toe/
+ 1849  java TTT1 
+ 1850  cd Yogender/java/onlineTest/
+ 1851  java OnlineTest 
+ 1852  import java.util.ArrayList;
+ 1853  import java.util.Collection;
+ 1854  import java.util.Collections;
+ 1855  import java.util.Iterator;
+ 1856  import java.util.List;
+ 1857  public class UnmodifiableCollection {
+ 1858  }
+ 1859  cd DATA/
+ 1860  lx
+ 1861  ls
+ 1862  cd projects/
+ 1863  ls\
+ 1864  ls
+ 1865  cd Eclipse/
+ 1866  ls
+ 1867  cd Projects/
+ 1868  ls
+ 1869  cd Applane_Framework_branch/
+ 1870  cd Applane_EI/
+ 1871  git pull
+ 1872  git status
+ 1873  git pull
+ 1874  git status
+ 1875  git add
+ 1876  .x.x..x.x.x..x
+ 1877  vmnvnkld
+ 1878  asvnc
+ 1879  svfn
+ 1880  s fk
+ 1881  snv
+ 1882  svn
+ 1883  DATA projects Eclipse Projects ApplaneFramewrkBranch
+ 1884  cnmcvmnkcv
+ 1885  jvn
+ 1886  hnso
+ 1887  j
+ 1888  djsf
+ 1889  dsfdjsdsikas
+ 1890  qwewdoewew
+ 1891  wewjewewew
+ 1892  sjdfv
+ 1893  vjrf
+ 1894  wjda
+ 1895  freo
+ 1896  i
+ 1897  
+ 1898  ping google.com
+ 1899  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI/
+ 1900  ./CompileEI_Clean.sh 
+ 1901  cd Yogender
+ 1902  mkdir AutoLoad
+ 1903  cd AutoLoad/
+ 1904  git clone https://github.com/daffodilsw/AutoLoad.git
+ 1905  cd ..
+ 1906  cd /DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1907  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1908  git pull
+ 1909  cd client/
+ 1910  npm start
+ 1911  cd Yogender/ppl/
+ 1912  cd server
+ 1913  node server.js 
+ 1914  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI/
+ 1915  ./CompileEI_Clean.sh 
+ 1916  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1917  ./CompileEI_Clean.sh 
+ 1918  cd 
+ 1919  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI
+ 1920  git pull
+ 1921  git checkout
+ 1922  git pull
+ 1923  git checkout Applane_EI/src/main/java/com/applane/ei/grading/NewCCE/cambridge/CambridgeSecClassesBusinessLogic.java
+ 1924  git stash Applane_EI/src/main/java/com/applane/ei/grading/NewCCE/cambridge/CambridgeSecClassesBusinessLogic.java
+ 1925  git stash
+ 1926  git pull
+ 1927  ./compileEI_clean.sh
+ 1928  ./CompileEI_Clean.sh 
+ 1929  cd ..
+ 1930  cd Applane_GWT_Client
+ 1931  mvn appengine:update
+ 1932  git branch
+ 1933  git status
+ 1934  cd
+ 1935  git config --global user.name "Yogender Kumar"
+ 1936  git config --global user.email "yogender3107@gmail.com"
+ 1937  cd Yogender/
+ 1938  tar xzf petsocial html.tar.gz
+ 1939  ls
+ 1940  tar xzf petsocial\ html.tar.gz 
+ 1941  cd petsocial\ html/
+ 1942  cd ..
+ 1943  cd ppl
+ 1944  git init
+ 1945  git add .
+ 1946  git commit
+ 1947  git commit -a
+ 1948  git log --stat --summary
+ 1949  git branch
+ 1950  git branch experimental
+ 1951  git branch
+ 1952  git branch experimental
+ 1953  echo "# ppl" >> README.md
+ 1954  git add README.md
+ 1955  git commit -m "first commit"
+ 1956  git remote add origin https://github.com/yogender3107/ppl.git
+ 1957  git push -u origin master
+ 1958  cd
+ 1959  git config --global user.name "yogenderdaffodilsw"
+ 1960  git config --global user.email "yogender.kumar@daffodilsw.com"
+ 1961  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI/
+ 1962  ./CompileEI_Clean.sh 
+ 1963  clear
+ 1964  ./CompileEI_Clean.sh 
+ 1965  history
+ 1966  history > txt
+ 1967  git status
+ 1968  pwd
+ 1969  $HOME
+ 1970  eclipse -data $HOME/DATA/projects/Eclipse/Workspace/Applane_Old
+ 1971  sudo apt-get install eclipse-platform
+ 1972  cd DATA/projects/Eclipse/
+ 1973  eclipse -data $HOME/DATA/projects/Eclipse/Workspace/Applane_Old
+ 1974  cd 
+ 1975  rm nitya/DATA/projects/Eclipse/Workspace/Applane_Old/.metadata/.plugins/org.eclipse.core.resources/.snap
+ 1976  mkdir nitya
+ 1977  mkdir DATA/projects/Eclipse/Workspace/Applane_Old/
+ 1978  cd nitya/
+ 1979  mkdir DATA/projects/Eclipse/Workspace/Applane_Old/
+ 1980  mkdir DATA/
+ 1981  mkdir DATA/projects/
+ 1982  mkdir DATA/projects/Eclipse/Workspace/
+ 1983  mkdir DATA/projects/Eclipse/
+ 1984  mkdir DATA/projects/Eclipse/Workspace/
+ 1985  mkdir DATA/projects/Eclipse/Workspace/Applane_Old/
+ 1986  pwd
+ 1987  cd DATA/projects/Eclipse/Projects/Applane_Framework_branch/Applane_EI/
+ 1988  ./CompileAll.sh 
+ 1989  git pull
+ 1990  ./CompileEI_clean.sh
+ 1991  ./CompileEI_Clean.sh 
+ 1992  cd Desktop/
+ 1993  gedit EclipseLuna.desktop 
+ 1994  pwd
+ 1995  gedit EclipseLuna.desktop 
+ 1996  chmod +x *.desktop
+ 1997  chmod +x EclipseLuna.desktop
+ 1998  cd Yogender/
+ 1999  git clone https://github.com/yogenderdaffodilsw/demo1.git
+ 2000  cd demo1/
+ 2001  git status
+ 2002  git branch
+ 2003  git status
+ 2004  git diff
+ 2005  git status
+ 2006  git add README.md 
+ 2007  git add yog.js 
+ 2008  git status
+ 2009  git commit -m "first commit"
+ 2010  git push origin master
+ 2011  git log
+ 2012  git reset --hard e4bdad7ad8b13a72e5fefaabadd68f4bcebb6d14
+ 2013  git checkout filename
+ 2014  git checkout -b demoBranch
+ 2015  git statsu
+ 2016  git status
+ 2017  git add yogender.js 
+ 2018  git commit -m "added yogender.js"
+ 2019  git checkout master
+ 2020  git pull origin master
+ 2021  git checkout demoBranch 
+ 2022  git rebase origin/master 
+ 2023  git log
+ 2024  git push origin demoBranch 
+ 2025  git checkout master
+ 2026  git merge demoBranch 
+ 2027  git push origin master
+ 2028  git config --global user.name
+ 2029  git config --global user.email
+ 2030  history > Git_commands.txt
